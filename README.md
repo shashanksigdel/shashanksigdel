@@ -7,7 +7,7 @@
 
 - 📝 I never write articles on [https://shashanksigdel.com.np](https://shashanksigdel.com.np)
 
-- 📫 How to reach me **sashanksigdel@gmail.com**
+- 📫 How to reach me **shashanksigdel01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
