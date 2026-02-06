@@ -19,4 +19,3 @@
 <a href="https://www.behance.net/sashanksigdel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sashanksigdel" height="30" width="40" /></a>
   <a href="https://codepen.io/sashanksigdel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sashanksigdel" height="30" width="40" /></a>
 </p>
-gos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
